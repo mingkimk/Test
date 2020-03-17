@@ -8,7 +8,7 @@ public class Main {
 		int b = 20;
 		
 		
-//2020. 03.17 .17일  더하기 수정 박민경
+//2020. 03.17 .17days plus and mode (MK)
 		int c = a + b;
 		System.out.println(c);
 
